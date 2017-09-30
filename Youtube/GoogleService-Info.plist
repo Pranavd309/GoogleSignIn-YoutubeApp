@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>520912182545-f8t5fv18o7jm0k83u7pr3hel9heermo7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.520912182545-f8t5fv18o7jm0k83u7pr3hel9heermo7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAYEv9Bsm69S-MvWJ0sEGszkDEVgaR_R-s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>520912182545</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.pranve.Youtube</string>
+	<key>PROJECT_ID</key>
+	<string>iosgoo-4c71c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>iosgoo-4c71c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:520912182545:ios:653fa090a12a777a</string>
+	<key>DATABASE_URL</key>
+	<string>https://iosgoo-4c71c.firebaseio.com</string>
+</dict>
+</plist>
